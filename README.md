@@ -17,4 +17,5 @@ Note: The activation feature is currently under revision, and users are recommen
 ---
 
 *Creator IDM Trial Reset: [J2TEAM](https://github.com/J2TEAM/idm-trial-reset)*
+
 *Creator IDM Activation: [lstprjct](https://github.com/lstprjct/IDM-Activation-Script)*
